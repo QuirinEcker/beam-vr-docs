@@ -1,0 +1,65 @@
+= System Specification
+
+== Initial Situation
+
+At the end of the 5th grade at the HTL Leonding, a thesis has to be written.
+The thesis is on behalf of the school and specializes in virtual reality.
+
+== Description of the current situation
+
+|==========
+2+| *Location and Client*
+| Location | HTBLA Leonding
+| Client |Prof. Haslinger Markus
+2+| *Team*
+| The team consists of 2 students
+| Ecker Quirin, Beckerle Florian
+2+| *Product*
+2+| In this VR application, the player is standing on top of a skyscraper. In front of him, is a walkable wooden beam, that points away from the building.
+2+a|
+* user should see his feet moving on the beam
+* user should see an evelation when steping on the beam
+* user should feel like walking a long a beam between life and death
+* user should fall when missing a step
+* user should be able to define the location of the beam with some sort of tracking device
+* user should be able to move in the virutal reality
+* user should see his body movements
+* user should start in some sort of start ui
+* user should see a variety of houses
+* user should be able to see street caneyons
+* user should be able to see moving cars in street caneyons|
+|==========
+
+== Current Situation
+
+|=======
+2+| *Organisation*
+| The responsibilities are a|
+* Programming
+* Modelling
+* Documentation
+2+| *Description of the Organisation*
+| Programming | Writing the necessary scripts for the application
+| Modelling | Creating 3d models and implementing them into the scene
+| Documentation | Documenting the progress
+2+| *Systemplattforms*
+2+a|
+* HTC Vive Pro
+* HTC Vive Tracker
+* Valve Index
+* Windows 10
+* Unity Engine
+* Steam VR|
+|=======
+
+//Currently, there is a separate virtual reality and physical reality. Our diploma thesis aims to combine these two realities in order to achieve a higher level of immersion.
+
+== Goals
+|=======
+| System goals | The goal is to create a stable running application, where the user can experience changes in the real reality and the virtual reality at the same time.
+|=======
+
+== Requirements (Target)
+|=======
+| Requirements Application | It is very important that the player feels immersed into the game. The user should feel like he is standing on top of a skyscraper.
+|=======
